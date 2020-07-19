@@ -25,6 +25,10 @@
     "prettier": "2.0.5",
     "tailwindcss": "^1.4.6"
   },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

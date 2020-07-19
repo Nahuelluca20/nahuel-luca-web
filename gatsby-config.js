@@ -2,7 +2,7 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
 module.exports = {
-  pathPrefix: "/nahuel-web",
+  pathPrefix: "/nahuel-luca-web",
   siteMetadata: {
     title: `Nahuel Luca Desarrolador Web`,
     description: `Soy desarrollador web, trabajo con tecnologías como React, Gatsby y Node.
